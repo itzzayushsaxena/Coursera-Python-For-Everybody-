@@ -1,4 +1,4 @@
-# Coursera-Python-For-Everybody-
+# Using-Databases-With-Python-
 
 Here, You can find all assignments of Python For Everybody Course on Coursera
 
