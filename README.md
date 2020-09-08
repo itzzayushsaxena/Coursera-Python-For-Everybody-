@@ -8,4 +8,4 @@ Here, You can find all assignments of Python For Everybody Course on Coursera
 
 [py4e Specialization Coursera Link](https://www.coursera.org/specializations/python)
 
-[Click Here For Enroll To This Course on Coursera](https://www.coursera.org/learn/python-databases)
+[Click Here To Enroll For This Course on Coursera](https://www.coursera.org/learn/python-databases)
